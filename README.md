@@ -1,5 +1,5 @@
 
-# <p align="center">My First SpringBoot Projrct</p>
+# <p align="center">My First SpringBoot Project</p>
   
 This is my first Spring Boot project, built using Spring Boot, Java, and Eclipse IDE. The project demonstrates basic Spring Boot functionalities like  dependency injection, and a simple controller to return a message.
 
